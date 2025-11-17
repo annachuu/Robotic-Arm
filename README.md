@@ -8,6 +8,15 @@ has the ability to portray common hand gestures using preset buttons.
 - Servo motors to act as joints of hand
 - Potentiometer to rotate servo motors
 
+## Materials
+- Arduino Uno R4 Circuit Board
+- Breadboard
+- Wires
+- Ultrasonic Sensor
+- Button
+- Potentiometer
+- Servo Motors
+
 ## Team Members
 - Anna Chu
 - Rojen Bolito
